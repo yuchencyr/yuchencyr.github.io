@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yuchencyr.github.io</id>
+    <title>sophie laurel</title>
+    <updated>2023-01-04T15:18:53.435Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yuchencyr.github.io"/>
+    <link rel="self" href="https://yuchencyr.github.io/atom.xml"/>
+    <subtitle>Let it come, let it be, let it go</subtitle>
+    <logo>https://yuchencyr.github.io/images/avatar.png</logo>
+    <icon>https://yuchencyr.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, sophie laurel</rights>
+    <entry>
+        <title type="html"><![CDATA[我们迎来了2023 /ya]]></title>
+        <id>https://yuchencyr.github.io/post/wo-men-ying-lai-liao-2023-ya/</id>
+        <link href="https://yuchencyr.github.io/post/wo-men-ying-lai-liao-2023-ya/">
+        </link>
+        <updated>2022-12-31T16:16:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>因为寄许希望<br>
+于是更加期待新年</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>因为寄许希望<br>
+于是更加期待新年</p>
+<!-- more -->
+<p>在宇宙转动 天地变换中<br>
+祈愿平安健康<br>
+社会健康运转</p>
+<p>伴随着依稀听见的烟花声<br>
+楼下外卖员询问地址的声音<br>
+以及 在亲友的问候声中</p>
+<p>新年到来了</p>
+<p>此刻外卖员送达了<br>
+2022的最后一单 2023的第一单</p>
+<p>没有看医院急症室的照片<br>
+朋友昨天去拍ct<br>
+她说<br>
+最难的是急症 走道上全是老人<br>
+电梯间一楼按钮贴着白纸<br>
+可以到达一个盖上白布的地方<br>
+喧嚣与寂静<br>
+咫尺天涯</p>
+<p>新年到来了吗</p>
+<p>我们在身心的双重失联中 迎接未知的2023<br>
+严冬过后 就是春天吗？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[诗经]]></title>
+        <id>https://yuchencyr.github.io/post/shi-jing/</id>
+        <link href="https://yuchencyr.github.io/post/shi-jing/">
+        </link>
+        <updated>2022-11-01T09:33:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>之子于归，宜其家室</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>之子于归，宜其家室</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://yuchencyr.github.io/post/hello-gridea/</id>
+        <link href="https://yuchencyr.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
